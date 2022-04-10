@@ -1,2 +1,8 @@
-# Cordel_Moderno-Efeito_Paralax
- Projeto utilizando efeito paralax
+<h1>Sobre o projeto</h1>
+ Este projeto visa a criação de uma página de um site utilizando o <strong>"efeito paralax"</strong>. O conteúdo utilizado é inspirado na literatura de cordel, onde foi utilizado o Cordel Moderno, escrito por Milton Duarte.
+
+<h2>Onde visualizar a página?</h2>
+ Basta clicar <a href="C:\Users\andre\Desktop\Projetos - Portifólio\Cordel_Moderno-Efeito_Paralax\index.html" target="_blank">aqui</a> que você será encaminhado(a) para a página.
+ 
+ <h2>Conclusão</h2>
+  
