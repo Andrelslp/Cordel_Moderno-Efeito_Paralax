@@ -129,10 +129,12 @@ footer {
 @media only screen and (max-width: 450px) {
    header h1 {
        font-size: 2.3em;
+       padding-top: 50px;
    }
 
    header p {
        font-size: 0.9em;
+       padding-bottom: 60px;
    }
 
    section {
@@ -143,5 +145,18 @@ footer {
         display: block;
         margin: auto;
         width: 75%;
+   }
+
+   div h1 {
+       font-size: 1.5em;
+   }
+
+   div > p > a > img {
+       max-height: 50px;
+       max-width: 50px;
+   }
+
+   footer {
+       font-size: 0.8em;
    }
 }
