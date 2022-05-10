@@ -132,6 +132,16 @@ footer {
    }
 
    header p {
-       font-size: 0.9;
+       font-size: 0.9em;
+   }
+
+   section {
+       font-size: 1.2em;
+   }
+
+   section.imagem p {
+        display: block;
+        margin: auto;
+        width: 75%;
    }
 }
