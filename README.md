@@ -3,6 +3,4 @@
 
 <h2>Onde visualizar a página?</h2>
  Basta clicar <a href="https://andrelslp.github.io/Cordel_Moderno-Efeito_Paralax/" target="_blank">aqui</a> que você será encaminhado(a) para a página.
- 
- <h2>Conclusão</h2>
   
